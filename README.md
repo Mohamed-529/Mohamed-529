@@ -4,3 +4,4 @@
 📈 Currently working on AI-based interview platform (PrepWithAI)  
 🎯 Goal: Software Engineer in Product-Based Company
 
+🛠 Skills: JavaScript, React.js, Node.js, Express.js, MongoDB, Python, SQL, HTML, CSS
